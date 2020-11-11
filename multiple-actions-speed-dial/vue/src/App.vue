@@ -64,7 +64,7 @@ export default {
 }
 </script>
 <style>
-.dx-fa-button-icon {
+.dx-fa-button-icon, .dx-fa-button-icon-close {
     text-align: center;
 }
 
